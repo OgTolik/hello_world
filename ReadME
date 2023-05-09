@@ -1,1 +1,7 @@
-  # Readme file for test "Readme"
+# Readme file for test "Readme"
+# Начнём историю на GitHub с одного из заданий на обучении Python
+n1, n2, n3, n4 = int(input()), int(input()), int(input()), int(input())
+if - 1 <= (n1 - n3) <= 1 and -1 <= (n2 - n4) <= 1:
+    print('YES')
+else:
+    print('NO')
